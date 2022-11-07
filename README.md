@@ -1,5 +1,5 @@
 # passgen.py
-Yet another password generator
+Yet another random password generator
 ### Usage
 To use it simply run
 ```
