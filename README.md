@@ -8,6 +8,7 @@ python3 passgen.py
 and the generated password will be shown in your terminal window.
 
 ### GUI version
+![Demo](pic/passgen_demo.png "Example")
 There is also a huy version available, showing a pop-up window containing the password and two bottons:
 - one copies the password to the clipboard;
 - one empties the clipboard and closes the pop-up window.
